@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souptik-coder" alt="souptik-coder" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Android application development**
+- 🌱 I’m currently learning **Jetpack Compose**
+
+- 👯 I’m looking to collaborate on **Android apps**
 
 - 💬 Ask me about **Android app development**
 
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/souptik-nath-0a0297215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souptik-nath-0a0297215" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
